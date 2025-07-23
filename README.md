@@ -1,4 +1,3 @@
-# mysql_database
 
 ├── App.config              # Cấu hình ứng dụng
 ├── Program.cs              # Điểm khởi chạy của ứng dụng
